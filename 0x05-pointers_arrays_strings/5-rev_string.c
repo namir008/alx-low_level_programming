@@ -1,9 +1,7 @@
-#include "main.h"
-
 /**
  *  * rev_string - reverse a string
  *   * @s: char array string type
- *    */
+ */
 
 void rev_string(char *s)
 {
